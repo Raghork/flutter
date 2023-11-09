@@ -9,7 +9,7 @@
                 "Poison"
             ],
             "description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
-            "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+            "img": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/001.png",
             "height": "0.71 m",
             "weight": "6.9 kg",
             "candy": "Bulbasaur Candy",
@@ -261,7 +261,7 @@
                 "Flying"
             ],
             "description": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
-            "img": "http://www.serebii.net/pokemongo/pokemon/",
+            "img": "http://www.serebii.net/pokemongo/pokemon/006.png",
             "height": "1.70 m",
             "weight": "90.5 kg",
             "candy": "Charmander Candy",
@@ -448,7 +448,7 @@
             "num": "0010",
             "name": "Caterpie",
             "types": [
-                ""
+                "Grass"
             ],
             "description": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
             "img": "http://www.serebii.net/pokemongo/pokemon/010.png",
